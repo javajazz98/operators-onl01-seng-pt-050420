@@ -6,7 +6,7 @@ else
 end
 
 
-def unsafe?(speed)
+def not safe?(speed)
   if speed > 60 
     true
   elsif speed < 40
