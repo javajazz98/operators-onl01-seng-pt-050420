@@ -11,5 +11,3 @@ def not safe?(speed)
     false
   end
 
-
-speed <40 || speed >60 ? true : false 
